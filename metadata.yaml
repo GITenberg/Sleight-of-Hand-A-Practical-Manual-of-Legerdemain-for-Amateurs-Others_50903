@@ -1,10 +1,16 @@
 _repo: Sleight-of-Hand-A-Practical-Manual-of-Legerdemain-for-Amateurs-Others_50903
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50903-h/images/cover.jpg
 creator:
   author:
     agent_name: Sachs, Edwin Thomas
     gutenberg_agent_id: '46133'
     url: http://www.gutenberg.org/2009/agents/46133
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50903#Sleight-of-Hand-A-Practical-Manual-of-Legerdemain-for-Amateurs-Others
 gutenberg_issued: '2016-01-11'
 gutenberg_type: Text
 identifiers:
